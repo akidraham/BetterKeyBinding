@@ -1,0 +1,10 @@
+## Interface: 11200
+## Title: BetterKeyBinding
+## Title-deDE: Verbesserte Tastaturbelegung
+## Author: <geowar@apple.com>
+## Notes: a better key binding interface by |cff66ff33geowar|r
+## Notes-deDE: Ein verbessertes Interface zur Einstellung der Tastaturbelegung.
+## SavedVariables: BKBF_IsSorted, BKBF_IsMixed
+## OptionalDeps: Cosmos, Khaos, Sea, EarthFeatureFrame
+## Dependencies:
+BetterKeyBinding.xml
